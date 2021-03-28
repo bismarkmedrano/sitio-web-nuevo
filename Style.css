@@ -1,0 +1,187 @@
+@charset "UTF-8";
+body p {
+    text-align: left;
+}
+#Principal #cama {
+    float: left;
+    margin-right: 15px;
+}
+#Principal #llorando {
+    float: right;
+    margin-left: 10px;
+}
+body p {
+}
+#Principal p #uchis {
+    float: left;
+    bottom: 10px;
+    margin-right: 25px;
+    margin-top: 15px;
+}
+body h3 {
+}
+body p {
+}
+body ol li {
+    color: #2E5D43;
+}
+body h4 {
+}
+body p {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    color: #FBFBFB;
+}
+/* CSS Document */
+
+#ima1 {
+    float: right;
+    text-align: left;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+#ima2 {
+    float: left;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    margin-right: 27px;
+}
+#ima3 {
+    float: right;
+    text-align: center;
+}
+#Menu {
+    text-align: center;
+    font-size: small;
+    color: #FBFBFB;
+}
+#Principal {
+    background-color: #B720AB;
+    width: 70%;
+    margin-left: 15px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+#Principal {
+    background-color: #63CAD4;
+    width: 70%;
+    margin-left: 15%;
+    color: #82678F;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-style: normal;
+    font-variant: normal;
+    margin-right: 15%;
+    padding-top: 10px;
+}
+#Principal #niña {
+    float: right;
+    margin-left: 15px;
+}
+#Principal #blancoynegro {
+    float: left;
+    margin-right: 35px;
+}
+#Principal #pintura {
+    float: right;
+}
+#menu1 {
+    background-color: #D65EE7;
+    height: 50%;
+    width: 70%;
+}
+#Principal #menu1 {
+    height: 100px;
+    min-width: 0px;
+    width: 100%;
+    text-align: right;
+}
+#Menu central {
+    background-color: #413F78;
+    width: 50%;
+    margin-left: 15px;
+    color: #413F78;
+    min-width: 0px;
+    height: 30px;
+    float: right;
+    text-align: right;
+}
+#Menu principal {
+    background-color: #413F78;
+    width: 40%;
+    margin-bottom: 30px;
+    float: right;
+    height: 70px;
+    text-align: right;
+}
+#nuevo {
+    background-color: #413F78;
+    width: 40%;
+    margin-left: 30%;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    text-align: right;
+}
+#ansiedad {
+    background-color: #7E678F;
+    width: 70%;
+    text-align: right;
+}
+#ansiedad {
+    background-color: #5F5D91;
+    width: 90%;
+    margin-left: 10%;
+}
+#Principal #grito {
+    float: left;
+    margin-right: 15px;
+}
+#Principal #chele {
+    float: right;
+}
+#Principal #chela {
+    float: right;
+}
+#Principal #hamburguesa {
+    float: right;
+    margin-left: 10px;
+}
+#Principal #panza {
+    float: left;
+    margin-right: 20px;
+}
+#Principal #mujertriste {
+    float: right;
+    margin-left: 20px;
+}
+#divdepresion {
+    background-color: #413F78;
+    width: 90%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+#explosivodiv {
+    background-color: #2E5D43;
+    padding: 10px;
+    width: 90%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+#alimentaciondiv {
+    background-color: #F17624;
+    padding: 10px;
+    width: 90%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+#ansiedaddiv {
+    background-color: #7D1C41;
+    padding: 10px;
+    width: 90%;
+    margin-right: 5%;
+    margin-left: 5%;
+}
